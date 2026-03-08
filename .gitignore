@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+*.bak
+
+# Obsidian
+**/.obsidian/
